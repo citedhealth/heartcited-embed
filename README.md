@@ -104,12 +104,6 @@ That's it. The widget fetches evidence data from the HeartCited API and renders 
 <script src="https://cdn.jsdelivr.net/npm/heartcited-embed@1/dist/embed.min.js"></script>
 ```
 
-### R2 CDN (heartcited.com hosted)
-
-```html
-<script src="https://cdn.heartcited.com/embed.min.js"></script>
-```
-
 ### npm (for bundlers)
 
 ```bash
