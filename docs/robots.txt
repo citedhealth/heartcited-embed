@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+# HeartCited Embed Widget
+# Main site: https://heartcited.com
+# Widget docs: https://widget.heartcited.com
+# npm: https://www.npmjs.com/package/heartcited-embed
